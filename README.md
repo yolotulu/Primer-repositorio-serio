@@ -2,7 +2,7 @@
 
   Este repositorio (hecho para salvar la asignatura :D), nos muestra diferentes scripts con comandos
   
-tanto de bach (Windows) como en bash (Linux), faciles y cortos para novatos.
+tanto de bach (Windows) como en bash (Linux), fáciles y cortos para novatos.
 
   Podemos aprender diferentes comandos como:
   
@@ -13,4 +13,4 @@ tanto de bach (Windows) como en bash (Linux), faciles y cortos para novatos.
     touch       touch
    history   doskey /history
    
-   y más que estos! Leetelos y prueba a hacerlos, te divertirás.
+   y más que estos! Léetelos y prueba a hacerlos, te divertirás.
