@@ -6,48 +6,48 @@ tanto de bach (Windows) como en bash (Linux), fáciles y cortos para novatos.
 
   Podemos aprender diferentes comandos como:
   
-   -BATCH-          -BASH-
+   -BATCH-              -BASH-
    
-   echo              echo
-   
-   
-   mkdir             mkdir
+   echo                  echo
    
    
-   notepad           touch
+   mkdir                 mkdir
    
    
-   doskey /history   history
+   notepad               touch
    
    
-   rm -rf            del
+   doskey /history       history
    
    
-   pause             stop
+   rm -rf                del
    
    
-   dir               ls
+   pause                 stop
    
    
-   find              grep
+   dir                   ls
    
    
-   move              mv
+   find                  grep
    
    
-   cd                cd
+   move                  mv
    
    
-   whoami            whoami
+   cd                    cd
    
    
-   ver               uname -a
+   whoami                whoami
    
    
-   shutdown          shutdown
+   ver                   uname -a
    
    
-   set /P            read
+   shutdown              shutdown
+   
+   
+   set /P                read
    
    
    
