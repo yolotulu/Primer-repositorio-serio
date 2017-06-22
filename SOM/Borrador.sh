@@ -8,5 +8,5 @@
 
 mkdir borrador
 touch borrador/BORRAR.txt
-pause
+pause  ## non me funciona este comando en bash
 rm -rf borrador
