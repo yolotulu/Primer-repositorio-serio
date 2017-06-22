@@ -4,9 +4,9 @@
 # y seguido de una pausa, borra todo lo creado.
 #########################
 # "mkdir" crea un directorio, "touch" crea el documento dentro del directorio
-# y despues de la pausa (pause) "rm -rf" borra todo lo que deseamos además de lo que contiene.
+# y despues "rm -rf" borra todo lo que deseamos además de lo que contiene.
 
 mkdir borrador
 touch borrador/BORRAR.txt
-pause  ## non me funciona este comando en bash
+echo "ahora toca borrarlo todo"
 rm -rf borrador
