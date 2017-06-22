@@ -10,46 +10,32 @@ tanto de bach (Windows) como en bash (Linux), fáciles y cortos para novatos.
    
    echo                  echo
    
-   
    mkdir                 mkdir
-   
    
    notepad               touch
    
-   
    doskey /history       history
-   
    
    rm -rf                del
    
-   
    pause                 stop
-   
    
    dir                   ls
    
-   
    find                  grep
    
-   
    move                  mv
-   
-   
+
    cd                    cd
-   
-   
+
    whoami                whoami
-   
-   
+
    ver                   uname -a
-   
-   
+
    shutdown              shutdown
-   
-   
+
    set /P                read
-   
-   
+
    
   
    y más que estos! Léetelos y prueba a hacerlos, te divertirás.
