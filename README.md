@@ -6,7 +6,7 @@ tanto de bach (Windows) como en bash (Linux), faciles y cortos para novatos.
 
   Podemos aprender diferentes comandos como:
   
-  #-BACH-     #-BASH-
+   -BACH-      -BASH-
     
     echo        echo
     mkdir       mkdir
